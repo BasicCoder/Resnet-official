@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ssh://bc@10.141.6.11:22/home/bc/anaconda3/bin/python" name="ssh://bc@10.141.6.11:22/home/bc/anaconda3/envs/python3.5">
+        <fileTransfer host="10.141.6.11" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
